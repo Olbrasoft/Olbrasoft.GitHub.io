@@ -9,7 +9,7 @@ driveId: putYourIDHere
 
 Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. 
 
-{% include youtube.html id=page.youtubeId %}
+{% include YouTube.html id=page.youtubeId %}
 
 
 
