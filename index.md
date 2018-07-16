@@ -5,7 +5,7 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
-# Embed Youtube
+# YouTube
 
 [Source](https://youtu.be/mBcqria2wmg)
 
@@ -13,7 +13,7 @@ driveId: putYourIDHere
 
 
 
-# Embed Streamble
+# Streamble
 
 [Source](https://youtu.be/DOtoIBrBAYE)
 The Matrix Soundtrack- Juno Reactor Vs Don Davis - Navras 
