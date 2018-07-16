@@ -7,7 +7,7 @@ driveId: putYourIDHere
 
 
 ---
-[http://bower.io/img/bower-logo.png](http://www.bower.io)
+ [![Alt text](/_includes/Logos/vimeo.png)](https://vimeo.com)
 
 # YouTube
 [YouTube](https://youtu.be) > [mBcqria2wmg](https://youtu.be/mBcqria2wmg)
