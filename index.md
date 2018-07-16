@@ -1,6 +1,3 @@
-<div class="iframe_container">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/E-ONNjFoOx0" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ## Welcome to GitHub Pages
 
