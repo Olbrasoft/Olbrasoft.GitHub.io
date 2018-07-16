@@ -7,7 +7,7 @@ driveId: putYourIDHere
 ---
 # Embed Youtube
 
-Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. 
+[Source](https://youtu.be/mBcqria2wmg)
 
 {% include YouTube.html id=page.youtubeId %}
 
