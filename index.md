@@ -4,7 +4,14 @@ streambleId: drjo9
 vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
+
+<!-- The link we want our bower bird to point to -->
+[1]: http://www.bower.io
+<!-- The image url we want to use for our img tag source -->
+[2]: http://bower.io/img/bower-logo.png
+
 ---
+[![Bower.io: A Frontend Package Manager. logo][2]][1]
 
 # YouTube
 [YouTube](https://youtu.be) > [mBcqria2wmg](https://youtu.be/mBcqria2wmg)
