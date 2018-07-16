@@ -9,6 +9,12 @@ driveId: putYourIDHere
 
 Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. 
 
+<!---
+Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
+
+Example:     streambleId: --b-drjo9
+-->
+
 {% include streamblePlayer.html id=page.streambleId %}
 
 
