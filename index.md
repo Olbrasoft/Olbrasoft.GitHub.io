@@ -7,7 +7,8 @@ driveId: putYourIDHere
 ---
 # Embed Streamble
 
-The Matrix Soundtrack- Juno Reactor Vs Don Davis - Navras
+[Source](https://youtu.be/DOtoIBrBAYE)
+The Matrix Soundtrack- Juno Reactor Vs Don Davis - Navras 
 
 <!---
 Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
@@ -15,7 +16,7 @@ Include this next line in your .md for Youtube videos, make sure to put your vid
 Example:     streambleId: --b-drjo9
 -->
 {% include streamblePlayer.html id=page.streambleId %}
-[Source](https://youtu.be/DOtoIBrBAYE)
+
 
 
 # Embed Youtube
