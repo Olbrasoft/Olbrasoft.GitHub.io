@@ -11,7 +11,7 @@ driveId: putYourIDHere
 [2]: http://bower.io/img/bower-logo.png
 
 ---
-[![Bower.io: A Frontend Package Manager. logo][2]][1]
+[Frontend Package Manager][2]][1]
 
 # YouTube
 [YouTube](https://youtu.be) > [mBcqria2wmg](https://youtu.be/mBcqria2wmg)
