@@ -13,7 +13,7 @@ driveId: putYourIDHere
 
 {% include YouTube.html id=page.youtubeId %}
 
-[![Alt text](https://raw.githubusercontent.com/Olbrasoft/Web/master/_includes/Logos/vimeo.png)](https://vimeo.com)
+[![Vimeo](https://raw.githubusercontent.com/Olbrasoft/Web/master/_includes/Logos/Vimeo.png)](https://vimeo.com)
 [YouTube](https://youtu.be) > [DOtoIBrBAYE](https://youtu.be/DOtoIBrBAYE)
 [vimeo](https://vimeo.com) > [280155171](https://vimeo.com/280155171)
 
