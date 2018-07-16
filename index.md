@@ -50,7 +50,7 @@ Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Fl
 <!---
 Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
 
-Example:     youtubeId: --b-9HrKK6w
+Example:     youtubeId: --b-l9VFg44H2z8
 -->
 
 {% include youtubePlayer.html id=page.youtubeId %}
