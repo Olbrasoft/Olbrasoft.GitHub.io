@@ -5,9 +5,7 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
-# YouTube
-
-[Source](https://youtu.be/mBcqria2wmg)
+[Source](https://youtu.be/mBcqria2wmg) # YouTube
 
 {% include YouTube.html id=page.youtubeId %}
 
