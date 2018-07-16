@@ -1,9 +1,17 @@
 ---
 youtubeId: HCBPmxiVMKk
+streableId: drjo9
 vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
+# Embed Streamble
+
+Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. 
+
+{% include streamblePlayer.html id=page.streambleId %}
+
+
 # Embed Youtube
 
 Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. 
