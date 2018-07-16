@@ -5,6 +5,14 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
+# Embed Youtube
+
+Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. 
+
+{% include youtube.html id=page.youtubeId %}
+
+
+
 # Embed Streamble
 
 [Source](https://youtu.be/DOtoIBrBAYE)
