@@ -5,6 +5,9 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
+{% swfobject ttps://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf %}
+<p>Latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
+{% endswfobject %}
 
 <!---
 {% include swfPlayer.html %}
