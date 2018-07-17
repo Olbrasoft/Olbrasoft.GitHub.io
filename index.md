@@ -6,7 +6,9 @@ twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
 
+<!---
 {% include swfPlayer.html %}
+-->
 
 <!---
 {% swfobject https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf %}
