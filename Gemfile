@@ -1,2 +1,2 @@
 
-gem 'jekyll-swfobject'
+gem jekyll-swfobject
