@@ -5,9 +5,14 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
-{% swfobject ttps://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf %}
+<object width="884" height="380" type="application/x-shockwave-flash" data="https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf">
+</object>
+<!---
+
+{% swfobject https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf %}
 <p>Latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
 {% endswfobject %}
+-->
 
 <!---
 {% include swfPlayer.html %}
