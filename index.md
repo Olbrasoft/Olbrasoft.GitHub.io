@@ -4,9 +4,9 @@ streambleId: drjo9
 vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
-
 ---
-{% include flashPlayer.html %}
+
+{% include swfPlayer.html %}
 
 {% swfobject https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf%}
   <p>To see this content latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
