@@ -1,3 +1,2 @@
-source "https://rubygems.org"
 
-gem 'jekyll-swfobject','~>1.0.1'
+gem 'jekyll-swfobject'
