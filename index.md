@@ -5,8 +5,7 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 ---
-<object width="884" height="380" type="application/x-shockwave-flash" data="https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf">
-</object>
+
 <!---
 
 {% swfobject https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf %}
@@ -33,6 +32,8 @@ driveId: putYourIDHere
 [YouTube](https://youtu.be) > [DOtoIBrBAYE](https://youtu.be/DOtoIBrBAYE)
 [vimeo](https://vimeo.com) > [280155171](https://vimeo.com/280155171)
 
+
+{% include swf.html %}
 
 # Streamble
 
