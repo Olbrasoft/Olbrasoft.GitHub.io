@@ -5,8 +5,13 @@ vimeoId: putYourIDHere
 twitchId: putYourIDHere
 driveId: putYourIDHere
 
-
 ---
+{% include flashPlayer.html %}
+
+{% swfobject https://raw.githubusercontent.com/Olbrasoft/Web/master/_medias/Diamond.swf%}
+  <p>To see this content latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
+{% endswfobject %}
+
 
 [![Vimeo](https://raw.githubusercontent.com/Olbrasoft/Web/master/_includes/Logos/YouTube.png)](https://youtu.be)
 > [mBcqria2wmg](https://youtu.be/mBcqria2wmg)
